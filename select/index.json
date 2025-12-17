@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "最長的電影",
+  "base_artist": "周杰倫",
+  "createdAt": "2025-12-17T20:17:46.088350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/01_最長的電影_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/02_最長的電影_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "Chou, Jay",
+      "has_synced": true,
+      "path": "select/03_最長的電影_Chou,_Jay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/04_最長的電影_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/05_最長的電影_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "最長的電影 - The Longest Movie",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/06_最長的電影_-_The_Longest_Movie_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "周杰倫 - Jay Chou",
+      "has_synced": true,
+      "path": "select/07_最長的電影_周杰倫_-_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "最長的電影 (The Longest Movie)",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/08_最長的電影_(The_Longest_Movie)_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/09_最長的電影_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "最長的電影 [The Longest Movie]",
+      "artist": "周杰倫 (Jay Chou)",
+      "has_synced": true,
+      "path": "select/10_最長的電影_[The_Longest_Movie]_周杰倫_(Jay_Chou).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/11_最長的電影_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/12_最長的電影_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "周杰倫",
+      "has_synced": true,
+      "path": "select/13_最長的電影_周杰倫.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "Chou, Jay",
+      "has_synced": true,
+      "path": "select/14_最長的電影_Chou,_Jay.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "最長的電影",
+      "artist": "Jay Chou 周杰倫",
+      "has_synced": true,
+      "path": "select/15_最長的電影_Jay_Chou_周杰倫.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最長的電影",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_01_最長的電影_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "最長的電影",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_02_最長的電影_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "最長的電影",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_03_最長的電影_Jay_Chou.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "最長的電影",
+      "artist": "Jay Chou",
+      "has_synced": false,
+      "path": "select/pl_04_最長的電影_Jay_Chou.txt"
+    }
+  ]
+}
